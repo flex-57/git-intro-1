@@ -1,1 +1,2 @@
-# git-intro-1 fabrice
+# git-intro-1 Karan & Fabrice
+
